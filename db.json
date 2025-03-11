@@ -1,0 +1,130 @@
+{
+  "hotels": [
+    {
+      "uuid": "1",
+      "name": "Hotel NH Barcelona",
+      "certifications": [],
+      "location": {
+        
+      },
+      "city": "1",
+      "country": "1",
+      "company": "1"
+    },
+    {
+      "uuid": "2",
+      "name": "Hotel NH Madrid",
+      "certifications": [],
+      "location": {
+        
+      },
+      "city": "2",
+      "country": "1",
+      "company": "1"
+    },
+    {
+      "uuid": "3",
+      "name": "Hotel Hilton Valencia",
+      "certifications": [],
+      "location": {
+        
+      },
+      "city": "3",
+      "country": "1",
+      "company": "2"
+    },
+    {
+      "uuid": "4",
+      "name": "Hotel Hilton Bilbao",
+      "certifications": [],
+      "location": {
+        
+      },
+      "city": "4",
+      "country": "1",
+      "company": "2"
+    },
+    {
+      "uuid": "5",
+      "name": "Hotel Hilton Málaga",
+      "certifications": [],
+      "location": {
+        
+      },
+      "city": "5",
+      "country": "1",
+      "company": "2"
+    },
+    {
+      "uuid": "6",
+      "name": "Hotel Hilton Paris",
+      "certifications": [],
+      "location": {
+        
+      },
+      "city": "7",
+      "country": "2",
+      "company": "2"
+    },
+    {
+      "uuid": "7",
+      "name": "Hotel NH Sevilla",
+      "certifications": [],
+      "location": {
+        
+      },
+      "city": "6",
+      "country": "1",
+      "company": "1"
+    }
+  ],
+  "cities": [{
+    "id": "1",
+    "name": "Barcelona",
+    "country": "1"
+  },{
+    "id": "2",
+    "name": "Madrid",
+    "country": "1"
+  },{
+    "id": "3",
+    "name": "Valencia",
+    "country": "1"
+  },{
+    "id": "4",
+    "name": "Bilbao",
+    "country": "1"
+  },{
+    "id": "5",
+    "name": "Málaga",
+    "country": "1"
+  },{
+    "id": "6",
+    "name": "Sevilla",
+    "country": "1"
+  },{
+    "id": "7",
+    "name": "Paris",
+    "country": "2"
+  }],
+  "countries": [
+    {
+        "id": "1",
+        "name": "Spain"
+    },
+    {
+        "id": "2",
+        "name": "France"
+    }
+  ],
+  "companies": [
+    {
+        "id": "1",
+        "name": "NH"
+    },
+    {
+        "id": "2",
+        "name": "Hilton"
+    }
+  ]
+}
