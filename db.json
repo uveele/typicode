@@ -8,7 +8,8 @@
       "city": "1",
       "country": "1",
       "company": "1",
-      "membership": "partial"
+      "membership": "partial",
+      "image": "https://picsum.photos/200"
     },
     {
       "uuid": "2",
@@ -18,7 +19,8 @@
       "city": "2",
       "country": "1",
       "company": "1",
-      "membership": "full"
+      "membership": "full",
+      "image": "https://picsum.photos/200"
     },
     {
       "uuid": "3",
@@ -28,7 +30,8 @@
       "city": "3",
       "country": "1",
       "company": "2",
-      "membership": "full"
+      "membership": "full",
+      "image": "https://picsum.photos/200"
     },
     {
       "uuid": "4",
@@ -38,7 +41,8 @@
       "city": "4",
       "country": "1",
       "company": "2",
-      "membership": "partial"
+      "membership": "partial",
+      "image": "https://picsum.photos/200"
     },
     {
       "uuid": "5",
@@ -48,7 +52,8 @@
       "city": "5",
       "country": "1",
       "company": "2",
-      "membership": null
+      "membership": null,
+      "image": "https://picsum.photos/200"
     },
     {
       "uuid": "6",
@@ -58,7 +63,8 @@
       "city": "7",
       "country": "2",
       "company": "2",
-      "membership": "full"
+      "membership": "full",
+      "image": "https://picsum.photos/200"
     },
     {
       "uuid": "7",
@@ -68,7 +74,8 @@
       "city": "6",
       "country": "1",
       "company": "1",
-      "membership": null
+      "membership": null,
+      "image": "https://picsum.photos/200"
     }
   ],
   "cities": [
