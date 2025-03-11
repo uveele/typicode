@@ -13,7 +13,7 @@
       "uuid": "2",
       "name": "Hotel NH Madrid",
       "certifications": [],
-      "location": { "lat": 41.3885734, "lng": 2.1610985 },
+      "location": { "lat": 40.4169004, "lng": -3.7219373 },
       "city": "2",
       "country": "1",
       "company": "1"
@@ -22,7 +22,7 @@
       "uuid": "3",
       "name": "Hotel Hilton Valencia",
       "certifications": [],
-      "location": { "lat": 41.3885734, "lng": 2.1610985 },
+      "location": { "lat": 39.407669, "lng": -0.526322 },
       "city": "3",
       "country": "1",
       "company": "2"
@@ -31,7 +31,7 @@
       "uuid": "4",
       "name": "Hotel Hilton Bilbao",
       "certifications": [],
-      "location": { "lat": 41.3885734, "lng": 2.1610985 },
+      "location": { "lat": 43.2686712, "lng": -2.9365867 },
       "city": "4",
       "country": "1",
       "company": "2"
@@ -40,7 +40,7 @@
       "uuid": "5",
       "name": "Hotel Hilton Málaga",
       "certifications": [],
-      "location": { "lat": 41.3885734, "lng": 2.1610985 },
+      "location": { "lat": 36.7119193, "lng": -4.4345373 },
       "city": "5",
       "country": "1",
       "company": "2"
@@ -49,7 +49,7 @@
       "uuid": "6",
       "name": "Hotel Hilton Paris",
       "certifications": [],
-      "location": { "lat": 41.3885734, "lng": 2.1610985 },
+      "location": { "lat": 48.8583701, "lng": 2.2919064 },
       "city": "7",
       "country": "2",
       "company": "2"
@@ -58,7 +58,7 @@
       "uuid": "7",
       "name": "Hotel NH Sevilla",
       "certifications": [],
-      "location": { "lat": 41.3885734, "lng": 2.1610985 },
+      "location": { "lat": 37.3753422, "lng": -6.0374598 },
       "city": "6",
       "country": "1",
       "company": "1"
