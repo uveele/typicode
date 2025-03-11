@@ -78,35 +78,37 @@
       "company": "1"
     }
   ],
-  "cities": [{
-    "id": "1",
-    "name": "Barcelona",
-    "country": "1"
-  },{
-    "id": "2",
-    "name": "Madrid",
-    "country": "1"
-  },{
-    "id": "3",
-    "name": "Valencia",
-    "country": "1"
-  },{
-    "id": "4",
-    "name": "Bilbao",
-    "country": "1"
-  },{
-    "id": "5",
-    "name": "Málaga",
-    "country": "1"
-  },{
-    "id": "6",
-    "name": "Sevilla",
-    "country": "1"
-  },{
-    "id": "7",
-    "name": "Paris",
-    "country": "2"
-  }],
+  "cities": [
+    {
+        "id": "1",
+        "name": "Barcelona",
+        "country": "1"
+    },{
+        "id": "2",
+        "name": "Madrid",
+        "country": "1"
+    },{
+        "id": "3",
+        "name": "Valencia",
+        "country": "1"
+    },{
+        "id": "4",
+        "name": "Bilbao",
+        "country": "1"
+    },{
+        "id": "5",
+        "name": "Málaga",
+        "country": "1"
+    },{
+        "id": "6",
+        "name": "Sevilla",
+        "country": "1"
+    },{
+        "id": "7",
+        "name": "Paris",
+        "country": "2"
+    }
+  ],
   "countries": [
     {
         "id": "1",
